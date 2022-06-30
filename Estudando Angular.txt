@@ -1,0 +1,5 @@
+Nos arquivos de mudole são dividido em 3 partes
+    declarations:[ Onde fica seus componentes.]
+    Imports:[ Onde fica seus Module.]
+    Providers:[Onde fica seus serviços.]
+    bootstrap:[Diz de onde vai partir o projeto. Ou seja, de qual component ele vai iniciar.]
